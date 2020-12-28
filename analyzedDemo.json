@@ -1,0 +1,1384 @@
+[
+  {
+    "Round1": {
+      "kills": [
+        {
+          "time": 64.8671875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 82.171875,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 82.75,
+          "attackerPlace": "LowerTunnel",
+          "attackerName": "Stewie2K",
+          "weapon": "usp_silencer",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 83.546875,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "device",
+          "weapon": "p250",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 91.71875,
+          "attackerPlace": "BDoors",
+          "attackerName": "NAF",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "device"
+        },
+        {
+          "time": 94.171875,
+          "attackerPlace": "LowerTunnel",
+          "attackerName": "Twistzz",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "Xyp9x"
+        }
+      ],
+      "score": { "Astralis": 0, "Team Liquid": 1 }
+    }
+  },
+  {
+    "Round2": {
+      "kills": [
+        {
+          "time": 149.9140625,
+          "attackerPlace": "ARamp",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "device"
+        },
+        {
+          "time": 172.8125,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Grim",
+          "weapon": "mp9",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 178.359375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Grim",
+          "weapon": "mp9",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 179.8984375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "gla1ve",
+          "weapon": "glock",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 180.8046875,
+          "attackerPlace": "BDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "famas",
+          "headshot": false,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 181.9765625,
+          "attackerPlace": "BDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "famas",
+          "headshot": false,
+          "victimName": "Xyp9x"
+        }
+      ],
+      "score": { "Astralis": 0, "Team Liquid": 2 }
+    }
+  },
+  {
+    "Round3": {
+      "kills": [
+        {
+          "time": 217.140625,
+          "attackerPlace": "LongDoors",
+          "attackerName": "Xyp9x",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 241.578125,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "device"
+        },
+        {
+          "time": 241.8046875,
+          "attackerPlace": "ARamp",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "EliGE"
+        }
+      ],
+      "score": { "Astralis": 1, "Team Liquid": 2 }
+    }
+  },
+  {
+    "Round4": {
+      "kills": [
+        {
+          "time": 324.8828125,
+          "attackerPlace": "TSpawn",
+          "attackerName": "device",
+          "weapon": "ssg08",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 336.9765625,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Xyp9x",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 377.5703125,
+          "attackerPlace": "LowerTunnel",
+          "attackerName": "device",
+          "weapon": "tec9",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 381.9296875,
+          "attackerPlace": "LowerTunnel",
+          "attackerName": "Twistzz",
+          "weapon": "famas",
+          "headshot": false,
+          "victimName": "device"
+        },
+        {
+          "time": 415.265625,
+          "attackerPlace": "TSpawn",
+          "attackerName": "Grim",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 425.5234375,
+          "attackerPlace": "OutsideTunnel",
+          "attackerName": "Twistzz",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "gla1ve"
+        }
+      ],
+      "score": { "Astralis": 2, "Team Liquid": 2 }
+    }
+  },
+  {
+    "Round5": {
+      "kills": [
+        {
+          "time": 461.921875,
+          "attackerPlace": "TopofMid",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 469.0234375,
+          "attackerPlace": "LongDoors",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 476.4140625,
+          "attackerPlace": "LongDoors",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 523.2109375,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 525.8828125,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Stewie2K"
+        }
+      ],
+      "score": { "Astralis": 3, "Team Liquid": 2 }
+    }
+  },
+  {
+    "Round6": {
+      "kills": [
+        {
+          "time": 554.9921875,
+          "attackerPlace": "TSpawn",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 561.9453125,
+          "attackerPlace": "Pit",
+          "attackerName": "Twistzz",
+          "weapon": "m4a1",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 564.8203125,
+          "attackerPlace": "LongA",
+          "attackerName": "EliGE",
+          "weapon": "m4a1",
+          "headshot": false,
+          "victimName": "device"
+        },
+        {
+          "time": 581.9140625,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Xyp9x",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 584.59375,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 597.890625,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Grim",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 620.53125,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 621.3515625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "NAF",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 621.5234375,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "Xyp9x",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "NAF"
+        }
+      ],
+      "score": { "Astralis": 4, "Team Liquid": 2 }
+    }
+  },
+  {
+    "Round7": {
+      "kills": [
+        {
+          "time": 683.9375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "EliGE",
+          "weapon": "deagle",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 730.2265625,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "Magisk",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 730.8515625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Twistzz",
+          "weapon": "deagle",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 732.375,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Twistzz",
+          "weapon": "deagle",
+          "headshot": false,
+          "victimName": "device"
+        },
+        {
+          "time": 733.890625,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "Xyp9x",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 739.1328125,
+          "attackerPlace": "BDoors",
+          "attackerName": "EliGE",
+          "weapon": "deagle",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 754.109375,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "EliGE",
+          "weapon": "deagle",
+          "headshot": true,
+          "victimName": "Xyp9x"
+        }
+      ],
+      "score": { "Astralis": 4, "Team Liquid": 3 }
+    }
+  },
+  {
+    "Round8": {
+      "kills": [
+        {
+          "time": 800.3125,
+          "attackerPlace": "LongDoors",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 848.0390625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Grim",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 850.609375,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Grim"
+        }
+      ],
+      "score": { "Astralis": 5, "Team Liquid": 3 }
+    }
+  },
+  {
+    "Round9": {
+      "kills": [
+        {
+          "time": 935.90625,
+          "attackerPlace": "LongDoors",
+          "attackerName": "Magisk",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 956.59375,
+          "attackerPlace": "Middle",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 960.84375,
+          "attackerPlace": "Catwalk",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 1013.796875,
+          "attackerPlace": "ARamp",
+          "attackerName": "Xyp9x",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 1013.9453125,
+          "attackerPlace": "ARamp",
+          "attackerName": "Magisk",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "EliGE"
+        }
+      ],
+      "score": { "Astralis": 6, "Team Liquid": 3 }
+    }
+  },
+  {
+    "Round10": {
+      "kills": [
+        {
+          "time": 1102.9609375,
+          "attackerPlace": "LongDoors",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 1187.890625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Magisk",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 1189.3984375,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 1196.625,
+          "attackerPlace": "Middle",
+          "attackerName": "Twistzz",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 1203.84375,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 1213.2109375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 1220.6171875,
+          "attackerPlace": "Hole",
+          "attackerName": "gla1ve",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "NAF"
+        },
+        {
+          "time": 1222.234375,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 1226.890625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "device"
+        }
+      ],
+      "score": { "Astralis": 7, "Team Liquid": 3 }
+    }
+  },
+  {
+    "Round11": {
+      "kills": [
+        {
+          "time": 1367.8984375,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 1369.21875,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 1371.734375,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 1375.2890625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 1395.84375,
+          "attackerPlace": "TRamp",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "EliGE"
+        }
+      ],
+      "score": { "Astralis": 7, "Team Liquid": 4 }
+    }
+  },
+  {
+    "Round12": {
+      "kills": [
+        {
+          "time": 1508.21875,
+          "attackerPlace": "LongA",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "device"
+        },
+        {
+          "time": 1556.765625,
+          "attackerPlace": "ShortStairs",
+          "attackerName": "gla1ve",
+          "weapon": "ump45",
+          "headshot": true,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 1559.3671875,
+          "attackerPlace": "ShortStairs",
+          "attackerName": "Magisk",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "NAF"
+        }
+      ],
+      "score": { "Astralis": 8, "Team Liquid": 4 }
+    }
+  },
+  {
+    "Round13": {
+      "kills": [
+        {
+          "time": 1690.0234375,
+          "attackerPlace": "LowerTunnel",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 1695.7578125,
+          "attackerPlace": "TunnelStairs",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 1714.328125,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 1718.28125,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "device"
+        },
+        {
+          "time": 1726.9609375,
+          "attackerPlace": "UnderA",
+          "attackerName": "Stewie2K",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Xyp9x"
+        }
+      ],
+      "score": { "Astralis": 8, "Team Liquid": 5 }
+    }
+  },
+  {
+    "Round14": {
+      "kills": [
+        {
+          "time": 1807.1875,
+          "attackerPlace": "Pit",
+          "attackerName": "Twistzz",
+          "weapon": "inferno",
+          "headshot": false,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 1809.5546875,
+          "attackerPlace": "LongA",
+          "attackerName": "Twistzz",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 1854.453125,
+          "attackerPlace": "LongDoors",
+          "attackerName": "Twistzz",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 1858.3125,
+          "attackerPlace": "ARamp",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 1865.2265625,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "NAF",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "device"
+        }
+      ],
+      "score": { "Astralis": 8, "Team Liquid": 6 }
+    }
+  },
+  {
+    "Round15": {
+      "kills": [
+        {
+          "time": 1903.0703125,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 1903.8046875,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 1904.609375,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 1922.25,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 1925.390625,
+          "attackerPlace": "Catwalk",
+          "attackerName": "EliGE",
+          "weapon": "aug",
+          "headshot": false,
+          "victimName": "device"
+        }
+      ],
+      "score": { "Astralis": 8, "Team Liquid": 7 }
+    }
+  },
+  {
+    "Round16": {
+      "kills": [
+        {
+          "time": 2196.25,
+          "attackerPlace": "LongDoors",
+          "attackerName": "device",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 2197.6875,
+          "attackerPlace": "LongDoors",
+          "attackerName": "device",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 2201.875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "glock",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 2205.9140625,
+          "attackerPlace": "ARamp",
+          "attackerName": "gla1ve",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 2209.8984375,
+          "attackerPlace": "LongDoors",
+          "attackerName": "device",
+          "weapon": "usp_silencer",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 2213.1015625,
+          "attackerPlace": "TopofMid",
+          "attackerName": "Stewie2K",
+          "weapon": "glock",
+          "headshot": true,
+          "victimName": "device"
+        },
+        {
+          "time": 2245.1328125,
+          "attackerPlace": "Side",
+          "attackerName": "Xyp9x",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        }
+      ],
+      "score": { "Team Liquid": 7, "Astralis": 9 }
+    }
+  },
+  {
+    "Round17": {
+      "kills": [
+        {
+          "time": 2290.203125,
+          "attackerPlace": "MidDoors",
+          "attackerName": "dupreeh",
+          "weapon": "famas",
+          "headshot": true,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 2292.03125,
+          "attackerPlace": "Catwalk",
+          "attackerName": "gla1ve",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 2293.375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "dupreeh",
+          "weapon": "famas",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 2295.3125,
+          "attackerPlace": "MidDoors",
+          "attackerName": "device",
+          "weapon": "usp_silencer",
+          "headshot": true,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 2297.96875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "dupreeh",
+          "weapon": "usp_silencer",
+          "headshot": false,
+          "victimName": "NAF"
+        }
+      ],
+      "score": { "Team Liquid": 7, "Astralis": 10 }
+    }
+  },
+  {
+    "Round18": {
+      "kills": [
+        {
+          "time": 2413.0390625,
+          "attackerPlace": "ARamp",
+          "attackerName": "Xyp9x",
+          "weapon": "aug",
+          "headshot": true,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 2418.46875,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "device"
+        },
+        {
+          "time": 2420.6015625,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "dupreeh",
+          "weapon": "famas",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 2426.796875,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "Stewie2K",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 2428,
+          "attackerPlace": "LongA",
+          "attackerName": "gla1ve",
+          "weapon": "m4a1",
+          "headshot": false,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 2435.609375,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "NAF",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 2439.8671875,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "EliGE",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 2440.1875,
+          "attackerPlace": "UnderA",
+          "attackerName": "Magisk",
+          "weapon": "famas",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 2443.0078125,
+          "attackerPlace": "UnderA",
+          "attackerName": "Magisk",
+          "weapon": "famas",
+          "headshot": false,
+          "victimName": "NAF"
+        }
+      ],
+      "score": { "Team Liquid": 7, "Astralis": 11 }
+    }
+  },
+  {
+    "Round19": {
+      "kills": [
+        {
+          "time": 2546.015625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "gla1ve",
+          "weapon": "m4a1",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 2547.984375,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "EliGE",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 2571.7890625,
+          "attackerPlace": "CTSpawn",
+          "attackerName": "dupreeh",
+          "weapon": "hegrenade",
+          "headshot": false,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 2574.109375,
+          "attackerPlace": "UnderA",
+          "attackerName": "Magisk",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 2578.3203125,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "EliGE",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 2578.3515625,
+          "attackerPlace": "LongA",
+          "attackerName": "Xyp9x",
+          "weapon": "inferno",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 2591.3671875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "NAF",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "device"
+        }
+      ],
+      "score": { "Team Liquid": 7, "Astralis": 12 }
+    }
+  },
+  {
+    "Round20": {
+      "kills": [
+        {
+          "time": 2638.390625,
+          "attackerPlace": "OutsideLong",
+          "attackerName": "NAF",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 2649.2109375,
+          "attackerPlace": "BombsiteA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 2653.40625,
+          "attackerPlace": "TunnelStairs",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "dupreeh"
+        }
+      ],
+      "score": { "Team Liquid": 8, "Astralis": 12 }
+    }
+  },
+  {
+    "Round21": {
+      "kills": [
+        {
+          "time": 2858.765625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": true,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 2858.765625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 2886.8828125,
+          "attackerPlace": "UpperTunnel",
+          "attackerName": "NAF",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 2887.765625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "dupreeh",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "Grim"
+        },
+        {
+          "time": 2888.71875,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "dupreeh",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "NAF"
+        },
+        {
+          "time": 2895.6171875,
+          "attackerPlace": "Hole",
+          "attackerName": "Stewie2K",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "dupreeh"
+        }
+      ],
+      "score": { "Team Liquid": 8, "Astralis": 13 }
+    }
+  },
+  {
+    "Round22": {
+      "kills": [
+        {
+          "time": 2991.4921875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "gla1ve",
+          "weapon": "ump45",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 3003.5,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Magisk",
+          "weapon": "m4a1",
+          "headshot": true,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 3004.03125,
+          "attackerPlace": "BDoors",
+          "attackerName": "EliGE",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 3005.328125,
+          "attackerPlace": "BDoors",
+          "attackerName": "EliGE",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 3008.890625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Magisk",
+          "weapon": "m4a1",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 3011.1640625,
+          "attackerPlace": "Hole",
+          "attackerName": "Twistzz",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 3040.15625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 3058.8984375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "device",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 3060.421875,
+          "attackerPlace": "Middle",
+          "attackerName": "device",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Grim"
+        }
+      ],
+      "score": { "Team Liquid": 9, "Astralis": 13 }
+    }
+  },
+  {
+    "Round23": {
+      "kills": [
+        {
+          "time": 3087.8046875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 3151.40625,
+          "attackerPlace": "LongDoors",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Magisk"
+        },
+        {
+          "time": 3151.8203125,
+          "attackerPlace": "LongA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 3160.0234375,
+          "attackerPlace": "LongA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Twistzz"
+        },
+        {
+          "time": 3162.5546875,
+          "attackerPlace": "LongA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 3162.5546875,
+          "attackerPlace": "LongA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 3162.8359375,
+          "attackerPlace": "LongDoors",
+          "attackerName": "Stewie2K",
+          "weapon": "inferno",
+          "headshot": false,
+          "victimName": "device"
+        }
+      ],
+      "score": { "Team Liquid": 9, "Astralis": 14 }
+    }
+  },
+  {
+    "Round24": {
+      "kills": [
+        {
+          "time": 3235.7109375,
+          "attackerPlace": "MidDoors",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 3237.5078125,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Magisk",
+          "weapon": "ump45",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 3237.65625,
+          "attackerPlace": "MidDoors",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 3238.40625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Magisk",
+          "weapon": "ump45",
+          "headshot": false,
+          "victimName": "NAF"
+        },
+        {
+          "time": 3238.875,
+          "attackerPlace": "MidDoors",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Twistzz"
+        }
+      ],
+      "score": { "Team Liquid": 9, "Astralis": 15 }
+    }
+  },
+  {
+    "Round25": {
+      "kills": [
+        {
+          "time": 3287.03125,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Grim",
+          "weapon": "mac10",
+          "headshot": false,
+          "victimName": "dupreeh"
+        },
+        {
+          "time": 3287.9140625,
+          "attackerPlace": "BombsiteB",
+          "attackerName": "Magisk",
+          "weapon": "ump45",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 3291.4609375,
+          "attackerPlace": "Hole",
+          "attackerName": "Twistzz",
+          "weapon": "galilar",
+          "headshot": false,
+          "victimName": "Magisk"
+        }
+      ],
+      "score": { "Team Liquid": 10, "Astralis": 15 }
+    }
+  },
+  {
+    "Round26": {
+      "kills": [
+        {
+          "time": 3413.8125,
+          "attackerPlace": "LowerTunnel",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "NAF"
+        },
+        {
+          "time": 3422.609375,
+          "attackerPlace": "UnderA",
+          "attackerName": "device",
+          "weapon": "awp",
+          "headshot": false,
+          "victimName": "Stewie2K"
+        },
+        {
+          "time": 3436.015625,
+          "attackerPlace": "LongA",
+          "attackerName": "Twistzz",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "gla1ve"
+        },
+        {
+          "time": 3452.6015625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "EliGE"
+        },
+        {
+          "time": 3453.3828125,
+          "attackerPlace": "ARamp",
+          "attackerName": "Grim",
+          "weapon": "ak47",
+          "headshot": true,
+          "victimName": "Xyp9x"
+        },
+        {
+          "time": 3457.8125,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Grim"
+        },
+        {
+          "time": 3460.6015625,
+          "attackerPlace": "ExtendedA",
+          "attackerName": "dupreeh",
+          "weapon": "ak47",
+          "headshot": false,
+          "victimName": "Twistzz"
+        }
+      ],
+      "score": { "Team Liquid": 10, "Astralis": 16 }
+    }
+  }
+]
