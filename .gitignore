@@ -1,2 +1,3 @@
 *.dem
 /node_modules
+analyzedDemo.json

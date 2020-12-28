@@ -45,6 +45,7 @@ const readAndParseDemo = () => {
             const attacker = demoFile.entities.getByUserId(e.attacker);
             const attackerName = attacker ? attacker.name : "unnamed";
             const attackerPlace = attacker ? attacker.placeName : "unkownPlace";
+            const attackerPosition = attacker ? attacker.position : "unknownPosition"
 
             const time = demoFile.currentTime;
 
@@ -54,6 +55,7 @@ const readAndParseDemo = () => {
                 game[index]["Round"+currentRound].kills.push({
                     time: time,
                     attackerPlace: attackerPlace,
+                    attackerPosition: attackerPosition,
                     attackerName: attackerName,
                     weapon: e.weapon,
                     headshot: e.headshot ? true : false,
