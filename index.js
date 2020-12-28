@@ -35,7 +35,7 @@ const readAndParseDemo = () => {
                 let data = JSON.stringify(game);
                 fs.writeFileSync("analyzedDemo.json", data)
             }
-            
+
             currentRound++
         });
 
@@ -45,8 +45,6 @@ const readAndParseDemo = () => {
             const attacker = demoFile.entities.getByUserId(e.attacker);
             const attackerName = attacker ? attacker.name : "unnamed";
             const attackerPlace = attacker ? attacker.placeName : "unkownPlace";
-
-            const headshotText = e.headshot ? " HS" : "";
 
             const time = demoFile.currentTime;
 
