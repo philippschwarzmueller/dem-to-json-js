@@ -2,13 +2,12 @@ const fs = require("fs");
 const demofile = require("demofile");
 
 let currentRound = 1;
-
 let game = []
 
 
-const readAndParseDemo = () => {
+const readAndParseDemo = (filepath) => {
 
-    fs.readFile("testGOTV.dem",  (err, buffer) => {
+    fs.readFile(filepath,  (err, buffer) => {
         const demoFile = new demofile.DemoFile();
 
         demoFile.gameEvents.on("round_start", e => {
@@ -46,6 +45,10 @@ const readAndParseDemo = () => {
             const attackerName = attacker ? attacker.name : "unnamed";
             const attackerPlace = attacker ? attacker.placeName : "unkownPlace";
             const attackerPosition = attacker ? attacker.position : "unknownPosition"
+            const assister = demoFile.entities.getByUserId(e.assister);
+            const assisterName = assister ? assister.name : null
+            const flashAssister = demoFile.entities.getByUserId(e.assistedflash);
+            const flashAssisterName = flashAssister ? flashAssister.name : null
 
             const time = demoFile.currentTime;
 
@@ -57,6 +60,11 @@ const readAndParseDemo = () => {
                     attackerPlace: attackerPlace,
                     attackerPosition: attackerPosition,
                     attackerName: attackerName,
+                    assister: assisterName,
+                    flashAssister: flashAssisterName,
+                    noscope: e.noscope,
+                    thrusmoke: e.thrusmoke,
+                    attackerblind: e.attackerblind,
                     weapon: e.weapon,
                     headshot: e.headshot ? true : false,
                     victimName: victimName
@@ -70,4 +78,4 @@ const readAndParseDemo = () => {
 }
 
 
-readAndParseDemo();
+readAndParseDemo("testGOTV.dem");
