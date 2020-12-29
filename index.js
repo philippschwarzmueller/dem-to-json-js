@@ -4,7 +4,6 @@ const demofile = require("demofile");
 let currentRound = 1;
 let game = []
 
-
 const readAndParseDemo = (filepath) => {
 
     fs.readFile(filepath,  (err, buffer) => {
@@ -14,6 +13,13 @@ const readAndParseDemo = (filepath) => {
             game.push({
                 ["Round" + currentRound]: {
                     kills: [],
+                    grenades: {
+                        flashes: [],
+                        smokes: [],
+                        hegrenades: [],
+                        molotovs: [],
+                        decoys: []
+                    },               
                     score: {}
                 }
             })
@@ -28,11 +34,6 @@ const readAndParseDemo = (filepath) => {
             game[currentRound - 1]["Round"+currentRound].score = {
                     [terrorists.clanName]:  terrorists.score,
                     [cts.clanName]: cts.score,
-            }
-
-            if(terrorists.score == 16 || cts.score == 16) {
-                let data = JSON.stringify(game);
-                fs.writeFileSync("analyzedDemo.json", data)
             }
 
             currentRound++
@@ -71,6 +72,118 @@ const readAndParseDemo = (filepath) => {
                 })
             }
         });
+
+        demoFile.gameEvents.on("flashbang_detonate", e => {
+
+            const thrownBy = demoFile.entities.getByUserId(e.userid);
+            const thrownByName = thrownBy ? thrownBy.name : "unnamed";
+
+            let index = currentRound -1
+            const time = demoFile.currentTime;
+
+            if(game[index]) {
+                game[index]["Round"+currentRound].grenades.flashes.push({
+                    time: time,
+                    thrownBy: thrownByName,
+                    position: {
+                        x: e.x,
+                        y: e.y,
+                        z: e.z
+                    }
+                })
+            }
+        })
+
+        demoFile.gameEvents.on("smokegrenade_detonate", e => {
+
+            const thrownBy = demoFile.entities.getByUserId(e.userid);
+            const thrownByName = thrownBy ? thrownBy.name : "unnamed";
+
+            let index = currentRound -1
+            const time = demoFile.currentTime;
+
+            if(game[index]) {
+                game[index]["Round"+currentRound].grenades.smokes.push({
+                    time: time,
+                    thrownBy: thrownByName,
+                    position: {
+                        x: e.x,
+                        y: e.y,
+                        z: e.z
+                    }
+                })
+            }
+        })
+        
+        demoFile.gameEvents.on("hegrenade_detonate", e => {
+
+            const thrownBy = demoFile.entities.getByUserId(e.userid);
+            const thrownByName = thrownBy ? thrownBy.name : "unnamed";
+
+            let index = currentRound -1
+            const time = demoFile.currentTime;
+
+            if(game[index]) {
+                game[index]["Round"+currentRound].grenades.hegrenades.push({
+                    time: time,
+                    thrownBy: thrownByName,
+                    position: {
+                        x: e.x,
+                        y: e.y,
+                        z: e.z
+                    }
+                })
+            }
+        })
+
+        demoFile.gameEvents.on("inferno_startburn", e => {
+            const molotovID = demoFile.entities.entities[e.entityid]
+            const thrownBy = molotovID.owner;
+            const thrownByName = thrownBy ? thrownBy.name : "unnamed";
+
+            let index = currentRound -1
+            const time = demoFile.currentTime;
+
+            if(game[index]) {
+                game[index]["Round"+currentRound].grenades.molotovs.push({
+                    time: time,
+                    thrownBy: thrownByName,
+                    position: {
+                        x: e.x,
+                        y: e.y,
+                        z: e.z
+                    }
+                })
+            }
+        })
+
+        demoFile.gameEvents.on("decoy_detonate", e => {
+
+            const thrownBy = demoFile.entities.getByUserId(e.userid);
+            const thrownByName = thrownBy ? thrownBy.name : "unnamed";
+
+            let index = currentRound -1
+            const time = demoFile.currentTime;
+
+            if(game[index]) {
+                game[index]["Round"+currentRound].grenades.decoys.push({
+                    time: time,
+                    thrownBy: thrownByName,
+                    position: {
+                        x: e.x,
+                        y: e.y,
+                        z: e.z
+                    }
+                })
+            }
+        })
+
+        demoFile.gameEvents.on("cs_match_end_restart", e => {
+            //match is over, write json file - not sure if this is the best approach
+            game.pop()
+            let data = JSON.stringify(game);
+            fs.writeFileSync("analyzedDemo.json", data);
+        })
 
         demoFile.parse(buffer)
         
